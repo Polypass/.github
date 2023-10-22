@@ -1,0 +1,15 @@
+# Polypass
+
+Your student ID, now in your phone.
+
+## Usage Guidelines for Polypass and all of it's resources
+
+These brand resources (including logos, trademarks, etc.) are the exclusive property of Polypass. They are provided for official use only.
+
+You are not allowed to use, modify, or distribute these brand resources for any purpose without written consent from Polypass. Unauthorized usage is strictly prohibited and may be subject to legal action.
+
+All content and resources provided under any Polypass respository fall under this license and may not be used without explicit permission. This includes, but is not limited to, brand resources, code, text, etc.
+
+For inquiries and permissions, please contact <logandhibusiness@gmail.com>.
+
+© Polypass 2023. All rights reserved.
